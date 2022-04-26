@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "name": "Desenvolver Chatbot de atendimento",
+      "budget": "15000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 7000,
+      "services": [
+        {
+          "name": "Contratar recurso humano",
+          "cost": "5000",
+          "description": "Selecionar pessoa desenvolvedora",
+          "id": "763da92f-f6e4-4abc-abda-f81c4eeff55c"
+        },
+        {
+          "name": "Treinar recurso humano",
+          "cost": "2000",
+          "description": "Treinamento terceirizado",
+          "id": "ff02f4d3-7fc5-4448-bcb6-c31467b3a101"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
