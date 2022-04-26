@@ -37,7 +37,7 @@ COST MANAGEMENT
 3. Run `npm i` to install dependencies
 4. Run `npm run dev` to start the web application
 5. Run `npm run backend` to start JSON Server
-5. Open `http:/localhost:3000`
+5. Open `http://localhost:3000`
 
 
 ## License
